@@ -5,11 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:050505,50:003B73,100:00BFFF&text=KAILASH%20GUDME&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20PYTHON%20%7C%20DATA%20ANALYTICS&descAlignY=62&descSize=13&animation=fadeIn" width="100%" />
 </p>
 
-<!-- ================= INTRODUCTION ================= -->
-
-<h2 align="center">
-  Hi, I'm Kailash Gudme
-</h2>
+<h2 align="center">Hi, I'm Kailash Gudme</h2>
 
 <p align="center">
   <strong>Artificial Intelligence & Machine Learning | Python Developer | Data Analytics</strong>
@@ -27,8 +23,6 @@
 </p>
 
 ---
-
-<!-- ================= ABOUT ME ================= -->
 
 ## About Me
 
@@ -70,8 +64,6 @@ Goal: Building practical AI-powered solutions
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
 ## Tech Stack
 
 ### Programming Languages
@@ -94,7 +86,6 @@ Goal: Building practical AI-powered solutions
 ### Data Analytics & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-1F4E79?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -129,8 +120,6 @@ Goal: Building practical AI-powered solutions
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
-
 ## Featured Projects
 
 ### 1. AquaGuardian – Water Quality Application
@@ -162,8 +151,6 @@ Goal: Building practical AI-powered solutions
 
 ---
 
-<!-- ================= EXPERIENCE ================= -->
-
 ## Experience
 
 **GN Jerbi – Full Stack Development Intern**
@@ -179,8 +166,6 @@ Goal: Building practical AI-powered solutions
 
 ---
 
-<!-- ================= CERTIFICATIONS ================= -->
-
 ## Certifications
 
 - Power BI Workshop – Office Master
@@ -190,8 +175,6 @@ Goal: Building practical AI-powered solutions
 - Beginner HTML and CSS – Infosys
 
 ---
-
-<!-- ================= GITHUB STATISTICS ================= -->
 
 ## GitHub Statistics
 
@@ -206,8 +189,6 @@ Goal: Building practical AI-powered solutions
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
 ## Contribution Activity
 
 <p align="center">
@@ -216,17 +197,17 @@ Goal: Building practical AI-powered solutions
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
 ## Connect With Me
 
 <p align="center">
   <a href="mailto:kailashgudme@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+
+  <a href="https://www.linkedin.com/in/kailashgudme/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/kailashgudme">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
