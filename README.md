@@ -1,28 +1,44 @@
 
-<!-- ================= HEADER BANNER ================= -->
+<!-- ===================================================== -->
+<!--                 KAILASH GUDME PROFILE                  -->
+<!-- ===================================================== -->
+
+<!-- TOP TECHNOLOGY BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:050505,50:003B73,100:00BFFF&text=KAILASH%20GUDME&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20PYTHON%20%7C%20DATA%20ANALYTICS&descAlignY=62&descSize=13&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,40:002B59,75:0055AA,100:00BFFF&text=KAILASH%20GUDME&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20PYTHON%20%7C%20DATA%20ANALYTICS&descSize=15&descAlignY=58&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
-<h2 align="center">Hi, I'm Kailash Gudme</h2>
+<!-- GRADIENT INTRODUCTION WITH WAVING BOTTOM -->
 
 <p align="center">
-  <strong>Artificial Intelligence & Machine Learning | Python Developer | Data Analytics</strong>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:15112F,45:174A91,100:0796A8&height=230&section=header&text=Hi,%20I'm%20Kailash%20Gudme&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descSize=14&descAlignY=60"
+    width="100%"
+  />
+</p>
+
+<!-- ANIMATED TEXT -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+%7C+Learning+%7C+Exploring;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Python+Developer;Turning+Ideas+Into+Solutions"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Enthusiast;Python+Developer;Exploring+LLMs+%26+RAG;Building+Intelligent+Applications;Learning+%7C+Building+%7C+Growing" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Python-Developer-yellow?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data-Analytics-00BFFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM-Enthusiast-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Developer-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Analytics-00A6A6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM-Enthusiast-7B2CBF?style=flat-square"/>
 </p>
 
 ---
+
+<!-- ABOUT ME -->
 
 ## About Me
 
@@ -40,17 +56,18 @@ Interests:
   - Machine Learning
   - Python Development
   - Data Analytics
+  - Computer Vision
   - Large Language Models
-  - Retrieval-Augmented Generation (RAG)
+  - Retrieval-Augmented Generation
 
 Currently Exploring:
   - Machine Learning Fundamentals
-  - Computer Vision
   - OpenCV
   - Prompt Engineering
-  - Embeddings & Vector Search
-  - Power BI & Data Visualization
-  - Full Stack Development
+  - Embeddings and Vector Search
+  - RAG Fundamentals
+  - Power BI
+  - Data Visualization
   - Docker
 
 Goal: Building practical AI-powered solutions
@@ -59,17 +76,19 @@ Goal: Building practical AI-powered solutions
 - AI/ML graduate interested in developing intelligent and data-driven applications.
 - Familiar with Python, SQL, machine learning fundamentals and data analytics.
 - Exploring LLMs, prompt engineering, embeddings and Retrieval-Augmented Generation.
-- Hands-on experience with React, Next.js, Node.js and database integration.
-- Interested in solving real-world problems through technology.
+- Hands-on exposure to full-stack development and database operations.
+- Interested in applying AI and technology to solve real-world problems.
 
 ---
+
+<!-- TECH STACK -->
 
 ## Tech Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark"/>
 </p>
 
 ### AI / Machine Learning
@@ -96,29 +115,31 @@ Goal: Building practical AI-powered solutions
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark"/>
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/>
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 </p>
 
 ### DevOps & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio&theme=dark"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
 ---
+
+<!-- FEATURED PROJECTS -->
 
 ## Featured Projects
 
@@ -147,9 +168,11 @@ Goal: Building practical AI-powered solutions
 - Built a full-stack healthcare application focused on patient management.
 - Developed React-based interfaces for patient-related workflows.
 - Integrated MySQL for patient records and application data.
-- Used Docker to containerize the application.
+- Used Docker to containerize the application and support a consistent development environment.
 
 ---
+
+<!-- EXPERIENCE -->
 
 ## Experience
 
@@ -157,7 +180,7 @@ Goal: Building practical AI-powered solutions
 
 `June 2024 – August 2024`
 
-- Completed a structured 9-week internship covering frontend, backend, databases and AI technologies.
+- Completed a structured 9-week internship covering frontend development, backend development, databases and AI technologies.
 - Developed responsive interfaces using React.js and Next.js.
 - Worked with React Hooks, routing, SSR and API routes.
 - Explored Node.js, Express.js, REST APIs, middleware and CRUD operations.
@@ -165,6 +188,8 @@ Goal: Building practical AI-powered solutions
 - Explored LLMs, prompts, tokens, embeddings, vector search and RAG.
 
 ---
+
+<!-- CERTIFICATIONS -->
 
 ## Certifications
 
@@ -175,6 +200,8 @@ Goal: Building practical AI-powered solutions
 - Beginner HTML and CSS – Infosys
 
 ---
+
+<!-- GITHUB STATS -->
 
 ## GitHub Statistics
 
@@ -189,6 +216,8 @@ Goal: Building practical AI-powered solutions
 
 ---
 
+<!-- CONTRIBUTION GRAPH -->
+
 ## Contribution Activity
 
 <p align="center">
@@ -196,6 +225,8 @@ Goal: Building practical AI-powered solutions
 </p>
 
 ---
+
+<!-- CONNECT -->
 
 ## Connect With Me
 
@@ -213,10 +244,12 @@ Goal: Building practical AI-powered solutions
   </a>
 </p>
 
+<!-- FOOTER WAVE -->
+
 <p align="center">
-  <strong>Building | Learning | Exploring AI</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B73,100:00BFFF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B73,100:00BFFF&height=100&section=footer"/>
+  <strong>BUILDING | LEARNING | EXPLORING AI</strong>
 </p>
