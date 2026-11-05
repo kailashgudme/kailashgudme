@@ -5,12 +5,7 @@
 
 <!-- TOP TECHNOLOGY BANNER -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,40:002B59,75:0055AA,100:00BFFF&text=KAILASH%20GUDME&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20PYTHON%20%7C%20DATA%20ANALYTICS&descSize=15&descAlignY=58&animation=fadeIn"
-    width="100%"
-  />
-</p>
+
 
 <!-- GRADIENT INTRODUCTION WITH WAVING BOTTOM -->
 
